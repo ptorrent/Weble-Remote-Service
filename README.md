@@ -1,6 +1,7 @@
 
 # v1.1 (r1255) Weble Remote service
+# Server
 
-# Client
+Our VPN service is one of our best-seller service, with adoption by many local Swiss companies, and some multi-national companies mainly active in middle east and southeast Asia. All of our hardware & Windows software can connect to one of our distributed VPN servers either directly with a TCP connection or encapsulated inside an SSH or HTTP(S) tunnel to bypass firewalls. This VPN feature is very useful for remote maintenance of sites. Its P2P design also enables direct site-to-site connections.
 
-This VPN client, once activated on your device, will permit you to access it remotely for configuration and maintenance. It can also be used to access the device LAN and access other IP equipments. This solution can be used to deploy a smartphone application and access your installation from your cellular network (3g/4g/5g) or from any web-browser. The VPN connection is fully encrypted and secure.
+The VPN services for remote maintenance and inter-site communication are currently paid by monthly fees subscriptions, and it is our goal to also offer smaller customers an on-demand pay to use option to access their remote sites / housing using crypto payments.
