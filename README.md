@@ -1,5 +1,5 @@
 
-# v5.1 (r 405) Weble Remote service
+# v1.1 (r1255) Weble Remote service
 
 # Client
 
