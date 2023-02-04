@@ -11,7 +11,5 @@ The VPN services for remote maintenance and inter-site communication are current
 * RDP
 * HTTP
 * PPTP/L2tp
-
-
-# Futures connections
 * VPN Tunnel
+
