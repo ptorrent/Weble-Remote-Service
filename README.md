@@ -13,3 +13,7 @@ The VPN services for remote maintenance and inter-site communication are current
 * PPTP/L2tp
 * VPN Tunnel
 
+
+# Host managment
+  1. [Host table](https://github.com/ptorrent/weble-IoT-Gateway/blob/master/docs/weble-cloud-host.md)
+  1. [Upading device from cloud](https://github.com/ptorrent/weble-IoT-Gateway/blob/master/docs/weble-cloud-host.md)  
